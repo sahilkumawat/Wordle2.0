@@ -113,7 +113,6 @@ class BoardController: NSObject,
                   goalWord = WordGenerator.generateGoalWord(with: theme)
               }
           }
-      print(goalWord)
     // START YOUR CODE HERE
   }
     

@@ -4,8 +4,6 @@
 
 **Wordle 2.0** is an app that allows users to play an enhanced version of the classic word-guessing game Wordle, with additional features and customization options.
 
-Time spent: **5** hours spent in total
-
 ## Features
 
 The following functionality is completed:

@@ -15,7 +15,7 @@ The following functionality is completed:
 
 ## Video Walkthrough
 
-(https://www.loom.com/share/76f790bb974143d69823b4694d5693ee?sid=491927d6-76db-4406-b7f3-8af771f06c81)
+[Video Walkthrough](https://www.loom.com/share/76f790bb974143d69823b4694d5693ee?sid=491927d6-76db-4406-b7f3-8af771f06c81)
 
 ## Notes
 

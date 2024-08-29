@@ -1,24 +1,19 @@
-# Project 2 - *Wordle 2.0*
+# *Wordle 2.0*
 
-Submitted by: **Sahil Kumawat**
+**Sahil Kumawat**
 
 **Wordle 2.0** is an app that allows users to play an enhanced version of the classic word-guessing game Wordle, with additional features and customization options.
 
 Time spent: **5** hours spent in total
 
-## Required Features
+## Features
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] User can change the number of letters per row (the length of the goal word)
 - [x] User can change the numbers of rows on the board (how many guesses allowed)
 - [x] User can select a new themed set to pull the goal word from
 - [x] User can select "alien wordle", causing the goal word to change after each guess
-
-
-The following **optional** features are implemented:
-
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 ## Video Walkthrough
 
